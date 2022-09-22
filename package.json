@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/pearltran080/csc-394-assignment-3#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "pg": "^8.8.0",
+    "pug": "^3.0.2"
   }
 }
