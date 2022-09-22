@@ -19,7 +19,7 @@ if (process.env.DATABASE_URL != null) {
 } else {
     connection = {
         user: 'postgres',
-        host: '18.218.121.53',
+        host: 'localhost',
         database: 'postgres',
         password: 'galaxy88',
         port: 5432
